@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=Deandre1dev)
+
 - 👋 Hi, I’m @Deandre1dev.
 - 🌱 I’m currently learning GUI.
 - 👯 I’m looking to collaborate on Python projects.
