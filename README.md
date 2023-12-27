@@ -8,6 +8,8 @@
 
  Connect with me:
  [LinkedIn](www.linkedin.com/in/deandre-wright-b99694265)
+
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=Deandre1dev)
  
 <!---
 Deandre1dev/Deandre1dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
