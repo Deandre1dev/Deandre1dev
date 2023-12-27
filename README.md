@@ -12,7 +12,12 @@
  [LinkedIn](www.linkedin.com/in/deandre-wright-b99694265)
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Deandre1dev)
- 
+
+ ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Deandre1dev&repo=Bookstore)
+
+ ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Deandre1dev&repo=Task10)
+
+ ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Deandre1dev&repo=Recommend)
 <!---
 Deandre1dev/Deandre1dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
