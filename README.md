@@ -1,5 +1,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Deandre1dev)
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=50&duration=4000&lines=Hi+There!;+I'm+Deandre'+Wright!;" /></h1>
+
+<h2 align="center">A Junior Software Engineer based in Johannesburg. </h3>
+
 - 👋 Hi, I’m @Deandre1dev.
 - 🌱 I’m currently learning GUI.
 - 👯 I’m looking to collaborate on Python projects.
@@ -12,6 +17,7 @@
  [LinkedIn](www.linkedin.com/in/deandre-wright-b99694265)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deandre1dev&hide=TeX&layout=compact&theme=tokyonight)
+<br>
 <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Deandre1dev&show_icons=true&theme=tokyonight)
 
