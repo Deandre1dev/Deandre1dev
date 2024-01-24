@@ -6,7 +6,7 @@
 <h2 align="center">A Junior Software Engineer based in Johannesburg. </h3>
 
 - 👋 Hi, I’m @Deandre1dev.
-- 🌱 I’m currently learning GUI.
+- 🌱 I’m currently learning GUI and TDD.
 - 👯 I’m looking to collaborate on Python projects.
 - 👨‍💻 All of my projects are available at
   [https://www.hyperiondev.com/portfolio/148931](https://www.hyperiondev.com/portfolio/148931)
